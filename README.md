@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hey there, I'm Ananndh Vishnu K J, a game modder who is passionate about creating mods and enhancing the gaming experience. I am proficient in C# programming language, and love to explore and experiment with its features to create efficient and innovative solutions.<br><br>Apart from game modding, I also have experience in JavaScript development, and have worked on various web projects using this language. I am constantly learning and improving my skills to stay up-to-date with the latest technologies and industry trends.<br><br>If you're interested in game modding or have any questions related to C# or JavaScript, feel free to reach out to me. I am always happy to share my knowledge and help others in their programming journey.<br><br>Thank you for visiting my profile
+Ananndh Vishnu K J
+About Me
+Hello, I am Ananndh Vishnu K J, an undergraduate student pursuing Computer Science. I am passionate about automation and love to simplify complex processes. When I am not coding, you can find me indulging in my hobby of video games. I also enjoy creating game mods as side projects during my free time.
 
 
 ## 🌐 Socials:
